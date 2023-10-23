@@ -10,4 +10,7 @@ I love Cyber, Ethical Hacking, and 3d Printing! Below are some of my accolades.
 - 🕹️ Arcade Hack CTF - 5th 🕹️
 - 👨‍💻 National Cyber Leauge - 5th at UCCS 👨‍💻
 
+- Find More of me below! - 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nolsen3/)
+
+xpex.me for more info!
